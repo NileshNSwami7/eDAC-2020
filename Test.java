@@ -1,5 +1,19 @@
 class Test
 {
+	
+	private int data;
+	
+	
+	void get()
+	{
+		return data;
+	}
+	
+	void set(int d)
+	{
+		this.data=d;
+	}
+	
 	public String toString()
 	{
 		return "test";
