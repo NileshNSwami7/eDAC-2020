@@ -1,4 +1,4 @@
-class Test
+class Test   // edit by nikita
 {
 	public String toString()
 	{
